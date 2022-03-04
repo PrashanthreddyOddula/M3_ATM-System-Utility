@@ -1,1 +1,1 @@
-
+The Movie Ticket Booking System using Java. The main objective of the Movie Ticket Booking System is to manage the details of Movie,Ticket,Customer,Show Timing,Audi. It manages all the information about Movie, Booking, Audi, Movie. The project is totally built at administrative end and thus only the administrator is guaranteed the access.

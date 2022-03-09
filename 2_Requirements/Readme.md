@@ -1,19 +1,17 @@
 # HIGH LEVEL REQUIREMENTS
 |ID |Description |
 |---|---|
-|HL_1 |Add New Movie |
-|HL_2 |Delete Movie |
-|HL_3 |Show Movie List |
-|HL_4 |See Total Bookings |
-|HL_5 |Book Ticket |
-|HL_6 |Show my Ticket |
-|HL_7 |Cancel Ticket |
+|HL_1 |Register User |
+|HL_2 |Login |
+|HL_3 |Admin have to update the pin |
+|HL_4 |User must be able to make a balance enqiry of any account link to the card |
+
 
 
 # LOW LEVEL REQUIREMENTS
 |ID |Description |
 |---|---|
-|LL_1 |Register User |
-|LL_2 |Login |
-|LL_3 |Admin have to add Movie and Prize |
-|LL_4 | User have to book and cancel ticket |
+|LL_1 |Id,pin |
+|LL_2 |If user don't have id and pin |
+|LL_3 |If User enter wrong pin transaction fails |
+

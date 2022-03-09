@@ -11,7 +11,7 @@
 # LOW LEVEL REQUIREMENTS
 |ID |Description |
 |---|---|
-|LL_1 |Id,pin |
-|LL_2 |If user don't have id and pin |
+|LL_1 |Enter pin |
+|LL_2 |If user don't have  pin |
 |LL_3 |If User enter wrong pin transaction fails |
 

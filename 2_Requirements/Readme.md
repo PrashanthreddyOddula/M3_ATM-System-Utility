@@ -1,18 +1,19 @@
 # HIGH LEVEL REQUIREMENTS
 |ID |Description |
 |---|---|
-|HL_1 |Register User |
-|HL_2 |Login |
-|HL_3 |Admin have to update the pin |
-|HL_4 |User must be able to make a balance enqiry of any account link to the card |
+|HL_1 |User ATM PIN has to match with dedicated card |
+|HL_2 |A User must be able to make a cash withdrawl from any suitable account linked to the card |
+|HL_3 |A User must able to make a balance inquiry of any account linked to the card |
+|HL_4 |A User must be able to make Deposits to the account linked to the card |
+|HL_5 |A User must be able to print the mini statement of any account to the linked to the card |
 
 
 
 # LOW LEVEL REQUIREMENTS
 |ID |Description |
 |---|---|
-|LL_1 |Enter pin |
-|LL_2 |If user don't have  pin |
+|LL_1 |After a sucessful transaction a user can choose to continue with another transaction or user can exit |
+|LL_2 |If User try to withdraw the exceeding the account limit transction has to be fail |
 |LL_3 |If User enter wrong pin transaction fails |
 
 # USER INTERFACE REQUIREMENTS

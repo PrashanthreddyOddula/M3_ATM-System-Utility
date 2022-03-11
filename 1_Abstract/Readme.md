@@ -14,7 +14,7 @@ customers interact with a user-friendly interface that enables them to access th
 accounts and perform various transactions.
 
 ## Features
-#### The ATM is a single functional unit consisting of various subcomponents. 
+#### The ATM is a single functional unit consisting of various subcomponents. 
 #### This software allows the user to access their bank accounts remotely through an ATM without any aid of human bank teller. 
 #### This software also allows to perform various other functions apart from just accessing his bank account such as mobile bill clearings etc. 
 #### Some of its hardware components are cassettes, memory, drives, dispensers i.e. for receipts and cash, a card reader, printer, switches, a console, a telephone dialer port, a networking port and disks. 

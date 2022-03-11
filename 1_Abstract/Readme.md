@@ -22,4 +22,7 @@ accounts and perform various transactions.
 #### The Memory of the system shall be 20MB. 
 #### The Cassette capacity shall be at least 2000 notes.
 
+## Capacity
+#### The ATM shall provide customers a 24 hour service. 
+
 
